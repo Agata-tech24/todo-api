@@ -8,6 +8,6 @@ class HomeController extends Controller
 {
     public function index()
     {
-        return "Welcome to Todo API Starter Project!";
+        return "Ini halaman Home!";
     }
 }
